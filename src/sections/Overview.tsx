@@ -18,7 +18,7 @@ export function Overview() {
             text, building an Edit Comp you can translate from, duplicating a
             folder of comps per language, applying the right font per language,
             and queueing the renders. It is DEPT's tool — it ships only to
-            licensed machines..
+            licensed machines.
           </p>
 
           <h3>What it does for you</h3>
